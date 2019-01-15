@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "icist-20190115163921-authRole",
+            "UnauthRoleArn": "arn:aws:iam::961698961193:role/icist-20190115163921-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::961698961193:role/icist-20190115163921-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "icist-20190115163921-deployment",
+            "UnauthRoleName": "icist-20190115163921-unauthRole",
+            "StackName": "icist-20190115163921",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:961698961193:stack/icist-20190115163921/ab1fbbb0-1898-11e9-8dc7-0e83df3f8cd0"
+        }
+    }
+}
